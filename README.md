@@ -14,8 +14,8 @@ git clone https://github.com/Captain/MyFirstGitProject.git
 cd MyFirstGitProject 
 ```
 ## Author
-Captain Ky
-Computer Eng'g Student, Holy Angel University
+Captain Ky  
+Computer Eng'g Student, Holy Angel University  
 [GitHub Profile](https://github.com/Kez723Cudia)
 
 
